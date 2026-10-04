@@ -44,7 +44,7 @@ import os
 #  SOZLAMALAR (shu yerga o'zingizning ma'lumotlaringizni kiriting)
 # ============================================================
 
-BOT_TOKEN = "8541076638:AAF6kxwTA89-RlybB-8j0KmeQLR04M2vxsA"
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 API_ID = 38048373
 API_HASH = "864d949f4d06ed60b349a9e11f20fde2"
 

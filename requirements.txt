@@ -1,0 +1,4 @@
+aiogram==3.13.1
+telethon==1.36.0
+qrcode==7.4.2
+pillow==10.4.0
